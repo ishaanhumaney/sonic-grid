@@ -48,9 +48,7 @@ Open your browser to http://localhost:8000 to interact with the static applicati
 # Project Structure
 ```bash
 sonic-grid/
-├── .github/
-│   └── workflows/
-│       └── ci.yml          # Automated HTML5 validation & CSS code linting
+├── .gitignore              # Development environment path exclusion rules
 ├── index.html              # Main multi-product audio catalog dashboard
 ├── style.css               # Centralized architecture responsive design stylesheet
 ├── product1.html           # SoundWave-X Wireless product specification profile
